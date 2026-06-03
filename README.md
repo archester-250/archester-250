@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from China</h3>
 
 <p align="center">
-    <a href="https://github.com/archester-250" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://github.com/archester-250" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@archester--250-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 
 <p align="center">
     <a href="https://github.com/archester-250?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
